@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="project-part-of-speech-tagging">Project: Part of Speech Tagging</h1>
 <h2 id="introduction">Introduction</h2>
 <p>In this notebook, you’ll use the  <a href="https://github.com/jmschrei/pomegranate">Pomegranate</a>  library to build a hidden Markov model for part of speech tagging with a  <a href="http://www.petrovi.de/data/universal.pdf">universal tagset</a>. Hidden Markov models have been able to achieve &gt;96% tag accuracy with larger tagsets on realistic text corpora. Hidden Markov models have also been used for speech recognition and speech generation, machine translation, gene recognition for bioinformatics, and human gesture recognition for computer vision, and more.</p>
